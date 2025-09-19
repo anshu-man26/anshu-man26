@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRoMWdpYjV5a3IwMGg4bTVoem45YXNuNnJxOTN1NHc3OTg3c3NjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGn9OKY4rQLpk1a/giphy.gif" width="600" alt="Breaking Bad GIF Banner" style="border-radius:16px;box-shadow:0 4px 24px 0 #0003;"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#2980b9;">Anshuman Singh</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#2980b9;">Anshuman</span> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Prayagraj-blue?style=for-the-badge" />
