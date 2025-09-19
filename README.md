@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/Email-singh.anshuman2608%40gmail.com-green?style=for-the-badge" />
 </p>
 
-<p align="center" style="font-size:1.4em;font-weight:bold;color:#16a085;">
-  <b>“Brick By Brick”</b>
-</p>
 
 ---
 
