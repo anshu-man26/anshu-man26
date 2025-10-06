@@ -5,8 +5,9 @@
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#2980b9;">Anshuman</span> 👋</h1>
+
 <p align="center">
-  <b>Developer | Tech Enthusiast | Lifelong Learner</b>
+  <b>Developer | Tech Enthusiast | Learner</b>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Prayagraj-blue?style=for-the-badge" />
@@ -17,34 +18,43 @@
 ---
 
 <p align="center">
-  <i>Passionate about building impactful products and solving real-world problems with code. I love experimenting with new technologies and thrive in collaborative environments. Let's connect!</i>
+  <i>I enjoy building impactful products and solving real-world problems with code. Always experimenting, always learning. Let's connect!</i>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/aries1232/ClickAndCare">
-    <img src="https://img.shields.io/badge/ClickAndCare-React%20%7C%20Node-blueviolet?style=for-the-badge&logo=react" />
-    <br><sub>Real-time doctor appointment booking platform.</sub>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/anshu-man26/EngageSphere">
-    <img src="https://img.shields.io/badge/EngageSphere-React%20%7C%20Socket.io-yellowgreen?style=for-the-badge&logo=react" />
-    <br><sub>Advanced messaging and video chat application.</sub>
-  </a>
-  <br><br>
-  <a href="https://github.com/anshu-man26/Shouko">
-    <img src="https://img.shields.io/badge/Shouko-Node%20%7C%20MySQL-cyan?style=for-the-badge&logo=node.js" />
-    <br><sub>Detective case management solution.</sub>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/anshu-man26/PortfolioSite">
-    <img src="https://img.shields.io/badge/PortfolioSite-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge&logo=javascript" />
-    <br><sub>My personal developer portfolio.</sub>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/aries1232/ClickAndCare">
+        <img src="https://img.shields.io/badge/ClickAndCare-React%20%7C%20Node-blueviolet?style=for-the-badge&logo=react" /><br>
+        <sub>Real-time doctor appointment platform</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anshu-man26/EngageSphere">
+        <img src="https://img.shields.io/badge/EngageSphere-React%20%7C%20Socket.io-yellowgreen?style=for-the-badge&logo=react" /><br>
+        <sub>Messaging & video chat application</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anshu-man26/Shouko">
+        <img src="https://img.shields.io/badge/Shouko-Node%20%7C%20MySQL-cyan?style=for-the-badge&logo=node.js" /><br>
+        <sub>Detective case management solution</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anshu-man26/PortfolioSite">
+        <img src="https://img.shields.io/badge/PortfolioSite-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge&logo=javascript" /><br>
+        <sub>Personal developer portfolio</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -85,4 +95,4 @@
 
 ---
 
-<p align="center" style="font-size:1.18em;"><i>Thanks for visiting! Feel free to reach out if you want to collaborate or chat tech 🚀</i></p>
+<p align="center"><i>Thanks for visiting! Feel free to reach out for collaboration or tech talk.</i></p>
