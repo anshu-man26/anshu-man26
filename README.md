@@ -5,40 +5,46 @@
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#2980b9;">Anshuman</span> 👋</h1>
-
+<p align="center">
+  <b>Developer | Tech Enthusiast | Lifelong Learner</b>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Prayagraj-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/College-MNNIT%20Allahabad-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Email-singh.anshuman2608%40gmail.com-green?style=for-the-badge" />
 </p>
 
+---
+
+<p align="center">
+  <i>Passionate about building impactful products and solving real-world problems with code. I love experimenting with new technologies and thrive in collaborative environments. Let's connect!</i>
+</p>
 
 ---
 
-## 💻 Projects
+## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="250" style="background:#f6f8fa;border-radius:20px;box-shadow:0 2px 8px #0001;padding:18px;">
-      <a href="https://github.com/aries1232/ClickAndCare"><img src="https://img.shields.io/badge/ClickAndCare-React%20%7C%20Node-blueviolet?style=for-the-badge&logo=react" /></a><br>
-      <span align="center" style="font-size:1.05em;">Real-time doctor appointment booking platform.</span>
-    </td>
-    <td align="center" width="250" style="background:#f6f8fa;border-radius:20px;box-shadow:0 2px 8px #0001;padding:18px;">
-      <a href="https://github.com/anshu-man26/EngageSphere"><img src="https://img.shields.io/badge/EngageSphere-React%20%7C%20Socket.io-yellowgreen?style=for-the-badge&logo=react" /></a><br>
-      <span align="center" style="font-size:1.05em;">Advanced messaging and video chat application.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" style="background:#f6f8fa;border-radius:20px;box-shadow:0 2px 8px #0001;padding:18px;">
-      <a href="https://github.com/anshu-man26/Shouko"><img src="https://img.shields.io/badge/Shouko-Node%20%7C%20MySQL-cyan?style=for-the-badge&logo=node.js" /></a><br>
-      <span align="center" style="font-size:1.05em;">Detective case management solution.</span>
-    </td>
-    <td align="center" width="250" style="background:#f6f8fa;border-radius:20px;box-shadow:0 2px 8px #0001;padding:18px;">
-      <a href="https://github.com/anshu-man26/PortfolioSite"><img src="https://img.shields.io/badge/PortfolioSite-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge&logo=javascript" /></a><br>
-      <span align="center" style="font-size:1.05em;">My personal developer portfolio.</span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/aries1232/ClickAndCare">
+    <img src="https://img.shields.io/badge/ClickAndCare-React%20%7C%20Node-blueviolet?style=for-the-badge&logo=react" />
+    <br><sub>Real-time doctor appointment booking platform.</sub>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/anshu-man26/EngageSphere">
+    <img src="https://img.shields.io/badge/EngageSphere-React%20%7C%20Socket.io-yellowgreen?style=for-the-badge&logo=react" />
+    <br><sub>Advanced messaging and video chat application.</sub>
+  </a>
+  <br><br>
+  <a href="https://github.com/anshu-man26/Shouko">
+    <img src="https://img.shields.io/badge/Shouko-Node%20%7C%20MySQL-cyan?style=for-the-badge&logo=node.js" />
+    <br><sub>Detective case management solution.</sub>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/anshu-man26/PortfolioSite">
+    <img src="https://img.shields.io/badge/PortfolioSite-HTML%20%7C%20CSS%20%7C%20JS-ff69b4?style=for-the-badge&logo=javascript" />
+    <br><sub>My personal developer portfolio.</sub>
+  </a>
+</p>
 
 ---
 
@@ -57,7 +63,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:singh.anshuman2608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -67,10 +73,16 @@
 
 ---
 
+## 📊 Quick Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshu-man26&show_icons=true&theme=radical" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshu-man26&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-man26&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshu-man26&theme=radical&margin-w=6&margin-h=6" width="90%" />
 </p>
 
 ---
 
-<p align="center" style="font-size:1.18em;"><i>Thanks for stopping by!</i></p>
+<p align="center" style="font-size:1.18em;"><i>Thanks for visiting! Feel free to reach out if you want to collaborate or chat tech 🚀</i></p>
