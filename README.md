@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm <span style="color:#2980b9;">Anshuman</span> 👋</h1>
 
 <p align="center">
-  <b>Developer | Tech Enthusiast | Learner</b>
+  <b>Developer</b>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Prayagraj-blue?style=for-the-badge" />
