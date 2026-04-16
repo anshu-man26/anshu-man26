@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+%26+AI+Systems;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=500&lines=Backend+Engineer;Distributed+Systems+%26+APIs;Building+Reliable+Systems" />
 </p>
 
 <p align="center">
@@ -14,22 +14,29 @@
 ---
 
 ### 💫 About Me
-I build backend-heavy products and experiment with AI systems that solve real problems.  
-Currently working on production systems and continuously exploring better ways to design scalable, reliable applications.
+I build backend systems that handle real-world workflows at scale. Currently working on production-grade fintech systems, focusing on reliability, data pipelines, and service architecture.
 
-- 🏢 Currently working at **[YOUR COMPANY NAME]**
-- ⚙️ Focused on **Backend Systems, APIs, and AI workflows**
-- 🧠 Interested in **System Design, Distributed Systems, and Agent-based architectures**
-- 🚀 I prefer building fast, iterating, and learning by shipping
+- 🏢 SDE Intern at **Clear (formerly ClearTax)**
+- ⚙️ Working on **microservices, data pipelines, and GST systems**
+- 🧠 Interested in **distributed systems, system design, and backend performance**
+- 🚀 I like shipping practical solutions that improve reliability and automation
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,redis,aws,docker,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,react,spring,mongodb,mysql,redis,aws,docker,kubernetes,git" />
   </a>
 </p>
+
+---
+
+### 🧠 Experience Highlights
+- Migrated legacy workflows to microservices, improving system modularity and maintainability  
+- Built automation pipelines using Airflow for large-scale data reconciliation  
+- Improved reliability of backend services with better edge case handling and testing  
+- Worked with distributed systems using Kubernetes, AWS, and CI/CD pipelines  
 
 ---
 
@@ -37,9 +44,9 @@ Currently working on production systems and continuously exploring better ways t
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[ClickAndCare](https://github.com/aries1232/ClickAndCare)** | Real-time healthcare platform with booking & scheduling | `React` `Node.js` `MongoDB` |
-| **[EngageSphere](https://github.com/anshu-man26/EngageSphere)** | Real-time chat & video communication system | `Socket.io` `Agora` `React` |
-| **[Shouko](https://github.com/anshu-man26/Shouko)** | Case management system with structured workflows | `Node.js` `MySQL` |
+| **[ClickAndCare](https://github.com/aries1232/ClickAndCare)** | Real-time healthcare platform with scheduling and payments | `React` `Node.js` `MongoDB` `Stripe` |
+| **[EngageSphere](https://github.com/anshu-man26/EngageSphere)** | Real-time messaging and video communication system | `Socket.io` `Agora` `React` |
+| **[Shouko](https://github.com/anshu-man26/Shouko)** | Structured case management system with workflow handling | `Node.js` `MySQL` |
 
 ---
 
